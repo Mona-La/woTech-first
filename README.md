@@ -1,14 +1,12 @@
-Read me file uses markdown syntax to edit any text, formulas or codes
-# woTech-first
+# Welcome to My Respitory 🥳 // You use single hashtag
 
-# Welcome to my respitory 
-🥳
 ## My skills
-- Java
-- Python
-- Github
+- Java 👀
+- Python 🐍
+- Github 🐈
  
-## Second level heading
+## Second level heading // You use double hashtags
+
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
