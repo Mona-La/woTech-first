@@ -9,11 +9,6 @@ Read me file uses markdown syntax to edit any text, formulas or codes
 - Github
  
 ## Second level heading
-'''java
-// import static org.junit.jupiter.api.Assertions.assertEquals;
-
-// import org.junit.jupiter.api.Test;
-
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
@@ -38,9 +33,3 @@ public class Main {
     }
   }
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
-}
-'''
